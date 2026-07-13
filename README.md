@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/rahulraj0027/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/rahulraj0027/LeetCode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
@@ -24,8 +25,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rahulraj0027/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
