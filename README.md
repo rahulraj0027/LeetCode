@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0796-rotate-string](https://github.com/rahulraj0027/LeetCode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
+| [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
