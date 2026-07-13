@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1470-shuffle-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
+| [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rahulraj0027/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
