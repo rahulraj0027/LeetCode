@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/rahulraj0027/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/rahulraj0027/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
