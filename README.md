@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## String Matching
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## Hash Table
 |  |
 | ------- |
