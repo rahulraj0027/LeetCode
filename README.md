@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
