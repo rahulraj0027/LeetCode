@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0263-ugly-number](https://github.com/rahulraj0027/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/rahulraj0027/LeetCode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rahulraj0027/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulraj0027/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
