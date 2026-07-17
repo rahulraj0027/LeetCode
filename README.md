@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/rahulraj0027/LeetCode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## String Matching
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rahulraj0027/LeetCode/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
