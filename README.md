@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
+| [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
