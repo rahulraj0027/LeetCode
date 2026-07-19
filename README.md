@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/rahulraj0027/LeetCode/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/rahulraj0027/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rahulraj0027/LeetCode/tree/master/0507-perfect-number) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rahulraj0027/LeetCode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
