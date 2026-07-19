@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulraj0027/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3697-compute-decimal-representation](https://github.com/rahulraj0027/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3697-compute-decimal-representation](https://github.com/rahulraj0027/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
