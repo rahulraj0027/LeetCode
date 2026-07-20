@@ -123,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rahulraj0027/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/rahulraj0027/LeetCode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/rahulraj0027/LeetCode/tree/master/0338-counting-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
