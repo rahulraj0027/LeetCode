@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/rahulraj0027/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rahulraj0027/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
 | [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulraj0027/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rahulraj0027/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rahulraj0027/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/rahulraj0027/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
