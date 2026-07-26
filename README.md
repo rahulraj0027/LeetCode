@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/rahulraj0027/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/rahulraj0027/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rahulraj0027/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/rahulraj0027/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulraj0027/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
