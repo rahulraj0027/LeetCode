@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
