@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/rahulraj0027/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/rahulraj0027/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulraj0027/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rahulraj0027/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulraj0027/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
