@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/rahulraj0027/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/rahulraj0027/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/rahulraj0027/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rahulraj0027/LeetCode/tree/master/0507-perfect-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulraj0027/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulraj0027/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rahulraj0027/LeetCode/tree/master/0338-counting-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
