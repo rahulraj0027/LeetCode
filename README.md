@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3345-smallest-divisible-digit-product-i](https://github.com/rahulraj0027/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahulraj0027/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulraj0027/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/rahulraj0027/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahulraj0027/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3697-compute-decimal-representation](https://github.com/rahulraj0027/LeetCode/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/rahulraj0027/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
