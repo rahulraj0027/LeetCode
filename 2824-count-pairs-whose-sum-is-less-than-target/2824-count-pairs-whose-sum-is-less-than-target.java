@@ -1,15 +1,22 @@
 class Solution {
     public int countPairs(List<Integer> nums, int target) {
-        int pairs = 0;
+        Collections.sort(nums);
+        int count = 0;
+        int low = 0;
+        int high = nums.size()-1;
 
-        for(int i=0; i<nums.size(); i++){
-            for(int j=i+1; j<nums.size(); j++){
-                if(nums.get(i) + nums.get(j) < target)
-                    pairs++;
+        while(low < high){
+            if(nums.get(low) + nums.get(high) >= target){
+                high--;
+            }
+            else{
+                count += (high - low);
+                low++;
             }
         }
 
-        return pairs;
+
+        return count;
         
     }
 }
