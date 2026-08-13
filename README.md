@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/rahulraj0027/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulraj0027/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/rahulraj0027/LeetCode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/rahulraj0027/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Geometry
 |  |
 | ------- |
