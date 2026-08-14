@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/rahulraj0027/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/rahulraj0027/LeetCode/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulraj0027/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rahulraj0027/LeetCode/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/rahulraj0027/LeetCode/tree/master/1720-decode-xored-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
