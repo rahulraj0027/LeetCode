@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/rahulraj0027/LeetCode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rahulraj0027/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
