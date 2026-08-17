@@ -3,12 +3,9 @@ class Solution {
         int maxWords = 1;
 
         for(int i=0; i<sentences.length; i++){
-            int currentWords = 1;
-            for(int j=0; j<sentences[i].length(); j++){
-                char ch = sentences[i].charAt(j);
-                if(ch == ' ')
-                    currentWords++;
-            }
+
+            String currSent = sentences[i];
+            int currentWords = currSent.split(" ").length;    
 
             if(currentWords > maxWords)
                 maxWords = currentWords;
