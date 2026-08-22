@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-reverse-only-letters](https://github.com/rahulraj0027/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/rahulraj0027/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/rahulraj0027/LeetCode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/rahulraj0027/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/rahulraj0027/LeetCode/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/rahulraj0027/LeetCode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulraj0027/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulraj0027/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3731-find-missing-elements](https://github.com/rahulraj0027/LeetCode/tree/master/3731-find-missing-elements) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rahulraj0027/LeetCode/tree/master/0338-counting-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/rahulraj0027/LeetCode/tree/master/1720-decode-xored-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
