@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/rahulraj0027/LeetCode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/rahulraj0027/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulraj0027/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/rahulraj0027/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rahulraj0027/LeetCode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/rahulraj0027/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/rahulraj0027/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rahulraj0027/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulraj0027/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
