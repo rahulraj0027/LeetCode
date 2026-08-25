@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rahulraj0027/LeetCode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/rahulraj0027/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
