@@ -4,21 +4,19 @@ class Solution {
         int[] ans = new int[len];
         Stack<Integer> st = new Stack<>();
 
-        int j = len-1;
         for(int i=len-1; i>=0; i--){
             while(!st.isEmpty() && temperatures[st.peek()]<= temperatures[i]){
                 st.pop();
             }
 
             if(st.isEmpty()){
-                ans[j] = 0;
+                ans[i] = 0;
             }
             else{
-                ans[j] = st.peek() - i;
+                ans[i] = st.peek() - i;
             }
 
             st.push(i);
-            j--;
         }
 
         return ans;
