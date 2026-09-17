@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## String Matching
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1991-find-the-middle-index-in-array](https://github.com/rahulraj0027/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rahulraj0027/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3731-find-missing-elements](https://github.com/rahulraj0027/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulraj0027/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rahulraj0027/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/rahulraj0027/LeetCode/tree/master/3731-find-missing-elements) |
