@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3174-clear-digits) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## String Matching
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1688-count-of-matches-in-tournament](https://github.com/rahulraj0027/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/rahulraj0027/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3174-clear-digits) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulraj0027/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/rahulraj0027/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahulraj0027/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulraj0027/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
