@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rahulraj0027/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rahulraj0027/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/rahulraj0027/LeetCode/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rahulraj0027/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rahulraj0027/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rahulraj0027/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/rahulraj0027/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
