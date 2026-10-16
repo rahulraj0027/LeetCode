@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rahulraj0027/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/rahulraj0027/LeetCode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulraj0027/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rahulraj0027/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulraj0027/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahulraj0027/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rahulraj0027/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
