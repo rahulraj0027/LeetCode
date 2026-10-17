@@ -4,10 +4,8 @@ class Solution {
             return false;
         
         String str = s + s;
-        if(str.contains(goal))
-            return true;
         
-        return false;
+        return str.contains(goal);
         
     }
 }
