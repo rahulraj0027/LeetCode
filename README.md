@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rahulraj0027/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rahulraj0027/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rahulraj0027/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rahulraj0027/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rahulraj0027/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rahulraj0027/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulraj0027/LeetCode/tree/master/0560-subarray-sum-equals-k) |
