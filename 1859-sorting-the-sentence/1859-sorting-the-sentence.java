@@ -5,11 +5,9 @@ class Solution {
 
         for(int i=0; i<str.length; i++){
             String temp = str[i];
-
-            StringBuilder sb = new StringBuilder();
             char check = temp.charAt(temp.length()-1);
 
-            strAns[check-'1'] = sb.append(temp).deleteCharAt(sb.length()-1).toString();
+            strAns[check-'1'] = temp.substring(0, temp.length()-1);
         }
 
         StringBuilder sb = new StringBuilder();
