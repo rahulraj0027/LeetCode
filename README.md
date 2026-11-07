@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/rahulraj0027/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/rahulraj0027/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rahulraj0027/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/rahulraj0027/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/rahulraj0027/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulraj0027/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rahulraj0027/LeetCode/tree/master/2000-reverse-prefix-of-word) |
