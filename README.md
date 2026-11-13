@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-number-of-common-factors](https://github.com/rahulraj0027/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rahulraj0027/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2652-sum-multiples](https://github.com/rahulraj0027/LeetCode/tree/master/2652-sum-multiples) |
+| [2864-maximum-odd-binary-number](https://github.com/rahulraj0027/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rahulraj0027/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/rahulraj0027/LeetCode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rahulraj0027/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rahulraj0027/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/rahulraj0027/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/rahulraj0027/LeetCode/tree/master/2418-sort-the-people) |
+| [2864-maximum-odd-binary-number](https://github.com/rahulraj0027/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/rahulraj0027/LeetCode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/rahulraj0027/LeetCode/tree/master/3174-clear-digits) |
 | [3813-vowel-consonant-score](https://github.com/rahulraj0027/LeetCode/tree/master/3813-vowel-consonant-score) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/rahulraj0027/LeetCode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/rahulraj0027/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/rahulraj0027/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2864-maximum-odd-binary-number](https://github.com/rahulraj0027/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
